@@ -1,0 +1,7 @@
+{
+  "name": "ST Button Trigger",
+  "version": "0.1.0",
+  "description": "A script extension that adds a clickable button to trigger STScripts.",
+  "author": "Requiem84",
+  "category": "Script"
+}
